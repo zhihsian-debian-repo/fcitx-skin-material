@@ -2,10 +2,10 @@ fcitx-skin-material (0.4-1) unstable; urgency=medium
 
   * Add icons for fcitx-table-wbpy input method.
 
- -- Zijung Chueh <i@zijung.me>  Sat, 13 Oct 2018 16:51:34 +0800
+ -- Zhihsian Que <i@zhihsian.me>  Sat, 13 Oct 2018 16:51:34 +0800
 
 fcitx-skin-material (0.3-1) unstable; urgency=medium
 
   * Initial release
 
- -- Zijung Chueh <i@zijung.me>  Mon, 16 Jul 2018 16:33:31 +0800
+ -- Zhihsian Que <i@zhihsian.me>  Mon, 16 Jul 2018 16:33:31 +0800
